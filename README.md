@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## 👨🏻‍💻 I'm Pablo Mena
 
-Software Engineer specialized in the development of mobile applications, with more than 5 years of experience in development for platforms with Android and iOS operating systems. I am characterized by being a lover of technologies and being constantly learning, developing my skills in the area of software for mobile devices.
+As a Software Engineer with over 6 years of experience, I have dedicated my career to the development of mobile applications, excelling in creating both cross-platform and native applications for Android and iOS operating systems.
 
 ## Skills:
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
