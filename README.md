@@ -7,9 +7,8 @@ I have successfully worked on projects from scratch to implementation, taking re
 
 <!-- Tech Stack -->  
 <details>
-  
-## Tech Stack:
-  <p>
+  <summary><b>⚙️ Tech Stack</b></summary>
+    <p>
   
 | **Category** | **Technologies** |
 | - | - |
